@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9dea94a1-3c15-4775-acd3-f30eeda4e0c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ifam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ifam/TestaWebServiceCliente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +29,30 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "C:/Users/Aluno/Downloads/pbc-webservice-cliente/src/main/java/ifam/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="TestaWebServiceCliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifam.TestaWebServiceCliente" />
+      <module name="pbc-webservice-cliente" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaWebServiceCliente" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,8 +68,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ifam/Main.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/main/java/ifam/TestaWebServiceCliente.java</url>
+          <line>6</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
